@@ -1,14 +1,19 @@
 a {
   color: #888;
-  font: 2em; }
+  font: 6em; }
 
 p {
   color: #888;
-  font-size: 1em;
+  font-size: 3em;
   font-style: italic; }
 
 h1 {
-  font-size: 3em; }
+  font-size: 4em;
+  color: #00f; }
+
+h2 {
+  font-size: 4em;
+  color: #0ff; }
 
 #main-nav {
   background-color: #007100; }

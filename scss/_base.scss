@@ -1,6 +1,5 @@
 @import 'variables';
 @import 'mixins';
-
 a {
     color: $base-font-color;
     font: $base-font-size * 2;
@@ -12,7 +11,9 @@ p {
 }
 
 h1 {
-    @include header-typgraphy(4em, #00f);
-} 
- 
-  
+    @include header-typography(4em, #00f);
+}
+
+h2 {
+    @include header-typography(4em, #0ff);
+}
