@@ -12,7 +12,7 @@ p {
 }
 
 h1 {
-    font-size: $main-header;
+    @include header-typgraphy(4em, #00f);
 } 
  
   
