@@ -1,0 +1,24 @@
+a {
+  color: #888;
+  font: 2em; }
+
+p {
+  color: #888;
+  font-size: 1em;
+  font-style: italic; }
+
+h1 {
+  font-size: 3em; }
+
+#main-nav {
+  background-color: #007100; }
+  #main-nav ul {
+    padding: 20px 0; }
+    #main-nav ul li {
+      display: inline-block; }
+      #main-nav ul li a {
+        color: #ff0000;
+        text-decoration: none;
+        padding: 15px; }
+        #main-nav ul li a:hover {
+          color: blue; }

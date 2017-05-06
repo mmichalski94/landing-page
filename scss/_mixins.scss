@@ -1,0 +1,10 @@
+@import 'variables';
+
+@mixin base-font-typography{
+    color: $base-font-color;
+    font-size: $base-font-size;
+}
+
+@mixin header-typography($size, $color){
+    font-size: $size;
+}
