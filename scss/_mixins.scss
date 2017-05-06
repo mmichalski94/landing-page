@@ -7,4 +7,5 @@
 
 @mixin header-typography($size, $color){
     font-size: $size;
+    color: $color;
 }
